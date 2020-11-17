@@ -1,5 +1,5 @@
 
-# Hot Gadget E-Commerce(https://zabir1998.github.io/hot-gadget-ecommerce/)#
+# Hot Gadget E-Commerce(https://zabir1998.github.io/hot-gadget-ecommerce/)
 
 1. This is a simple HTML CSS based site.
 2. Here we can see a always image changing carousel at top.
